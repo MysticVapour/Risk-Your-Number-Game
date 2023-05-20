@@ -1,4 +1,5 @@
 # Risk-Your-Number-Game
+Play it here: https://the-risk-your-number-game.netlify.app/
 Welcome to the Risk your Number Game! Roll the Dice and Gather as many points as possible but be careful, don't roll a 1...
 
 Steps to play:
